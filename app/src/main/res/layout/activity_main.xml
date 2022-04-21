@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Новости МПТ"
+        android:text="Новости МПЖ"
         android:textSize="45dp"
         android:gravity="center"
         android:textColor="@color/white"
